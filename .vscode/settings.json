@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "execcommand_fp.h": "c",
+        "typeinfo": "c",
+        "memory_buffer_alloc.h": "c",
+        "mbedtls_config.h": "c",
+        "build_info.h": "c",
+        "check_config.h": "c",
+        "tcm_config.h": "c",
+        "bignum.h": "c",
+        "random": "c"
+    }
+}
