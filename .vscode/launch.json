@@ -8,8 +8,8 @@
             "args": ["-v", "-rm"],
             "stopAtEntry": false,
             "externalConsole": false,
-            "cwd": "/home/joker/z_swtpm",
-            "program": "/home/joker/z_swtpm/tpm_server",
+            "cwd": "/home/joker/ibmswtpm_mbedtls_smx",
+            "program": "/home/joker/ibmswtpm_mbedtls_smx/tpm_server",
             "MIMode": "gdb",
             "miDebuggerPath": "gdb",
             "setupCommands": [
